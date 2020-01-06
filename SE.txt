@@ -1,6 +1,11 @@
 hello
 this is lab 13
 conflicts will be solve after processing
+<<<<<<< Updated upstream
 an important update
 please make sure 
 changings
+=======
+Lab session 13 conflictssss
+changingsss
+>>>>>>> Stashed changes
